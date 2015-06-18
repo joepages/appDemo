@@ -1,5 +1,6 @@
-var serviceURL = "http://www.aiwebservices.biz/appDemo/services/";
+//var serviceURL = "http://www.aiwebservices.biz/appDemo/services/";
 //var serviceURL = "http://localhost/appDemo/services/";
+var serviceURL = "http://10.0.2.2/appDemo/services/";
 
 var employees;
 
